@@ -52,7 +52,7 @@ miestilo :hover {
 }
 
 .miestilo4 {
-  /* margin: 0 auto; */
+  align-items: center;
 }
 .boton1 {
   color: white;
@@ -70,5 +70,7 @@ miestilo :hover {
 }
 
 .estilo31 {
+  background-color: aqua;
+  width: 100%;
   margin: 0 auto;
 }
