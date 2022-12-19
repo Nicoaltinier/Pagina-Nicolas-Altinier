@@ -69,8 +69,50 @@ miestilo :hover {
 .miestilo5 {
 }
 
-.estilo31 {
-  background-color: aqua;
-  width: 100%;
+.estilo33 {
+  height: 200px;
+  align-items: center;
   margin: 0 auto;
+}
+.estilo31 {
+  background-color: #f5df4e;
+  width: 120px;
+  margin: 0 auto;
+}
+.estilo32 {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.estilo35 {
+  width: 800px;
+}
+
+.estilo36 {
+  display: flex;
+}
+
+.estilo37 {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.estilo38 {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.estilo39 {
+  color: grey;
+  align-items: center;
+}
+
+.estilo40 {
+  display: flex;
+}
+
+.estilo41 {
+  width: 400px;
+  height: 200px;
+  align-items: center;
 }
