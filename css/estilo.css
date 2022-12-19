@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Cookie&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.miestilo {
+  /* colocar al costado del H1, ver tipografía*/
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: none;
+  padding: 40px 20px 0px 20px;
+}
+
+miestilo :hover {
+  border-bottom: #f5df4e;
+  /*colocar el border-bottom en el hover */
+}
+
+/* background color amarillo es #f5df4e */
+
+.miestilo1 {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.miestilo2 {
+  padding: 10px;
+  justify-content: center;
+  color: grey;
+}
+
+.miestilo3 {
+  padding: 10px 20px 0px 20px;
+}
+
+.main1 {
+  display: flex;
+  background-color: #f5df4e;
+  width: 100%;
+  height: 600px;
+  justify-content: space-evenly;
+}
+
+.main2 {
+  border-radius: 50%;
+  border: 5px;
+  border-color: white;
+  box-shadow: 50px;
+}
+
+.miestilo4 {
+  /* margin: 0 auto; */
+}
+.boton1 {
+  color: white;
+  background-color: black;
+}
+
+.boton2 {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+  border: none;
+}
+
+.miestilo5 {
+}
+
+.estilo31 {
+  margin: 0 auto;
+}
