@@ -177,3 +177,14 @@ miestilo :hover {
   margin-left: 10px;
   margin: 0 auto;
 }
+
+.estilo58 {
+  display: flex;
+  background-color: aqua;
+  justify-content: center;
+  width: 1200px;
+}
+
+.estilo59 {
+  width: 400px;
+}
