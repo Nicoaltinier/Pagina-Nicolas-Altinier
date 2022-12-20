@@ -8,6 +8,8 @@
 * {
   font-family: "Poppins", sans-serif;
 }
+/* Comienza el header */
+
 .miestilo {
   color: #212529;
   font-family: "Courier New", Courier, monospace;
@@ -36,6 +38,8 @@ miestilo :hover {
   padding: 10px 20px 0px 20px;
 }
 
+/* Comienza el main */
+
 .main1 {
   display: flex;
   background-color: #f5df4e;
@@ -59,6 +63,7 @@ miestilo :hover {
   background-color: #212529;
   border-color: #212529;
   border-radius: 0%;
+  padding: 10px 25px 10px 25px;
 }
 
 .boton2 {
@@ -70,7 +75,7 @@ miestilo :hover {
 
 .miestilo5 {
 }
-
+/* Comienza section Conóceme más */
 .estilo33 {
   height: 200px;
   align-items: center;
@@ -119,6 +124,8 @@ miestilo :hover {
   align-items: center;
 }
 
+/* Comienza section En lo que puedo ayudarte.. */
+
 .estilo42 {
   width: 250px;
   background-color: #f5df4e;
@@ -133,17 +140,18 @@ miestilo :hover {
 .estilo44 {
   width: 400px;
   height: 300px;
+  justify-content: center;
 }
 
 .estilo45 {
   display: flex;
   width: 80%;
-  /* background-color: aqua; */
 }
 
 .estilo46 {
   color: #f5df4e;
   font-size: 60px;
+  justify-content: center;
 }
 
 .estilo47 {
@@ -186,7 +194,7 @@ miestilo :hover {
 
 .estilo58 {
   display: flex;
-  /* background-color: aqua; */
+
   justify-content: center;
   width: 1200px;
 }
