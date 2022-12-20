@@ -166,3 +166,14 @@ miestilo :hover {
 .estilo55 {
   display: flex;
 }
+
+.estilo56 {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.estilo57 {
+  margin-left: 10px;
+  margin: 0 auto;
+}
