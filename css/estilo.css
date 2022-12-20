@@ -9,8 +9,7 @@
   font-family: "Poppins", sans-serif;
 }
 .miestilo {
-  /* colocar al costado del H1, ver tipografía*/
-  color: black;
+  color: #212529;
   font-family: "Courier New", Courier, monospace;
   text-decoration: none;
   padding: 40px 20px 0px 20px;
@@ -18,15 +17,13 @@
 
 miestilo :hover {
   border-bottom: #f5df4e;
-  /*colocar el border-bottom en el hover */
 }
-
-/* background color amarillo es #f5df4e */
 
 .miestilo1 {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   padding: 10px;
+  width: 80%;
 }
 
 .miestilo2 {
@@ -59,11 +56,13 @@ miestilo :hover {
 }
 .boton1 {
   color: white;
-  background-color: black;
+  background-color: #212529;
+  border-color: #212529;
+  border-radius: 0%;
 }
 
 .boton2 {
-  color: black;
+  color: #212529;
   background-color: transparent;
   text-decoration: underline;
   border: none;
@@ -139,7 +138,7 @@ miestilo :hover {
 .estilo45 {
   display: flex;
   width: 80%;
-  background-color: aqua;
+  /* background-color: aqua; */
 }
 
 .estilo46 {
@@ -163,6 +162,13 @@ miestilo :hover {
   align-items: center;
 }
 
+.estilo52 {
+  background-color: white;
+  border-color: #212529;
+  border-radius: 0px;
+  padding: 10px 25px 10px 25px;
+}
+
 .estilo55 {
   display: flex;
 }
@@ -180,7 +186,7 @@ miestilo :hover {
 
 .estilo58 {
   display: flex;
-  background-color: aqua;
+  /* background-color: aqua; */
   justify-content: center;
   width: 1200px;
 }
@@ -191,11 +197,13 @@ miestilo :hover {
 
 .estilo60 {
   display: flex;
+  width: 800px;
 }
 
 .estilo65 {
-  background-color: black;
+  background-color: #212529;
   color: white;
+  border-color: #212529;
 }
 
 .estilo66 {
@@ -204,6 +212,16 @@ miestilo :hover {
 }
 
 .estilo67 {
-  background-color: black;
-  height: 50px;
+  background-color: #212529;
+  height: 150px;
+}
+
+.estilo68 {
+  background-color: #f5df4e;
+  border: none;
+  border-bottom: #212529;
+  border-radius: 0;
+}
+.estilo70 {
+  margin: 10px;
 }
