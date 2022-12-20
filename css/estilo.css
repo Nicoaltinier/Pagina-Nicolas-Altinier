@@ -188,3 +188,22 @@ miestilo :hover {
 .estilo59 {
   width: 400px;
 }
+
+.estilo60 {
+  display: flex;
+}
+
+.estilo65 {
+  background-color: black;
+  color: white;
+}
+
+.estilo66 {
+  background-color: #f5df4e;
+  height: 600px;
+}
+
+.estilo67 {
+  background-color: black;
+  height: 50px;
+}
