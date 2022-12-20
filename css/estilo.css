@@ -12,7 +12,7 @@
 
 .miestilo {
   color: #212529;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Poppins", sans-serif;
   text-decoration: none;
   padding: 40px 20px 0px 20px;
 }
@@ -57,6 +57,23 @@ miestilo :hover {
 
 .miestilo4 {
   align-items: center;
+  padding: 8px;
+  font-size: 48px;
+  color: #212529;
+}
+
+.estilo05 {
+  align-items: center;
+  padding: 8px;
+  font-size: 104px;
+  color: #212529;
+}
+
+.estilo06 {
+  align-items: center;
+  padding: 8px;
+  font-size: 21px;
+  color: #212529;
 }
 .boton1 {
   color: white;
@@ -77,31 +94,44 @@ miestilo :hover {
 }
 /* Comienza section Conóceme más */
 .estilo33 {
-  height: 200px;
   align-items: center;
-  margin: 0 auto;
+  height: 100px;
 }
 .estilo31 {
   background-color: #f5df4e;
   width: 120px;
   margin: 0 auto;
+  text-align: center;
 }
 .estilo32 {
   width: 250px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .estilo35 {
   width: 800px;
 }
 
+.estilo35b {
+  font-size: 32px;
+}
+
+.estilo35c {
+  font-style: bold;
+}
 .estilo36 {
   display: flex;
 }
 
 .estilo37 {
-  font-size: 80px;
+  font-size: 144px;
   font-weight: bold;
+  text-align: center;
+}
+
+.estilo37b {
+  font-size: 28px;
 }
 
 .estilo38 {
@@ -111,7 +141,7 @@ miestilo :hover {
 
 .estilo39 {
   color: grey;
-  align-items: center;
+  text-align: center;
 }
 
 .estilo40 {
@@ -127,14 +157,17 @@ miestilo :hover {
 /* Comienza section En lo que puedo ayudarte.. */
 
 .estilo42 {
-  width: 250px;
+  width: 150px;
   background-color: #f5df4e;
   margin: 0 auto;
+  text-align: center;
 }
 
 .estilo43 {
-  width: 800px;
-  margin: 0 auto;
+  /* width: 800px; */
+  text-align: center;
+  font-size: 40px;
+  padding: 20px 0 40px 0;
 }
 
 .estilo44 {
@@ -151,12 +184,19 @@ miestilo :hover {
 .estilo46 {
   color: #f5df4e;
   font-size: 60px;
-  justify-content: center;
+  text-align: center;
+}
+
+.estilo46b {
+  text-align: center;
+  font-size: 24px;
 }
 
 .estilo47 {
   justify-content: center;
 }
+
+/* Comienza section Resumen de mi CV */
 
 .estilo49 {
   display: flex;
@@ -175,11 +215,21 @@ miestilo :hover {
   border-color: #212529;
   border-radius: 0px;
   padding: 10px 25px 10px 25px;
+  text-align: center;
 }
 
+.estilo53 {
+  text-align: center;
+}
+
+.estilo54 {
+  height: 300px;
+}
 .estilo55 {
   display: flex;
 }
+
+/* Comienza section Portfolio */
 
 .estilo56 {
   display: flex;
@@ -202,6 +252,10 @@ miestilo :hover {
 .estilo59 {
   width: 400px;
 }
+
+/* Finaliza el main */
+
+/* Comienza el footer */
 
 .estilo60 {
   display: flex;
@@ -233,3 +287,5 @@ miestilo :hover {
 .estilo70 {
   margin: 10px;
 }
+
+/* Finaliza el footer y el body */
