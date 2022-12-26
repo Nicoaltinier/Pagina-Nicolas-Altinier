@@ -104,9 +104,10 @@ miestilo :hover {
   text-align: center;
 }
 .estilo32 {
-  width: 250px;
-  margin: 0 auto;
   text-align: center;
+  font-size: 40px;
+  padding: 10px 25px 10px 25px;
+  color: #212529;
 }
 
 .estilo35 {
@@ -115,11 +116,19 @@ miestilo :hover {
 
 .estilo35b {
   font-size: 32px;
+  padding: 10px 25px 10px 25px;
+  color: #212529;
 }
 
 .estilo35c {
   font-style: bold;
 }
+
+.estilo35d {
+  padding: 10px 25px 10px 25px;
+  color: #212529;
+}
+
 .estilo36 {
   display: flex;
 }
@@ -128,6 +137,7 @@ miestilo :hover {
   font-size: 144px;
   font-weight: bold;
   text-align: center;
+  color: rgb(80, 78, 78);
 }
 
 .estilo37b {
@@ -141,17 +151,18 @@ miestilo :hover {
 
 .estilo39 {
   color: grey;
-  text-align: center;
+  text-align: left;
 }
 
 .estilo40 {
   display: flex;
+  text-align: left;
 }
 
 .estilo41 {
   width: 400px;
   height: 200px;
-  align-items: center;
+  align-items: left;
 }
 
 /* Comienza section En lo que puedo ayudarte.. */
@@ -164,10 +175,10 @@ miestilo :hover {
 }
 
 .estilo43 {
-  /* width: 800px; */
-  text-align: center;
   font-size: 40px;
-  padding: 20px 0 40px 0;
+  padding: 10px 25px 10px 25px;
+  color: #212529;
+  text-align: center;
 }
 
 .estilo44 {
@@ -240,6 +251,7 @@ miestilo :hover {
 .estilo57 {
   margin-left: 10px;
   margin: 0 auto;
+  text-decoration: none;
 }
 
 .estilo58 {
@@ -262,10 +274,29 @@ miestilo :hover {
   width: 800px;
 }
 
+.estilo62 {
+  font-size: 18px;
+  padding: 10px 25px 10px 25px;
+  color: #212529;
+}
+
+.estilo63 {
+  font-size: 21px;
+  padding: 10px 25px 10px 25px;
+  color: #212529;
+}
+.estilo64 {
+  font-size: 40px;
+  padding: 10px 25px 10px 25px;
+  color: #212529;
+}
+
 .estilo65 {
-  background-color: #212529;
   color: white;
+  background-color: #212529;
   border-color: #212529;
+  border-radius: 0%;
+  padding: 10px 25px 10px 25px;
 }
 
 .estilo66 {
@@ -285,7 +316,9 @@ miestilo :hover {
   border-radius: 0;
 }
 .estilo70 {
-  margin: 10px;
+  font-size: 16px;
+  padding: 10px 25px 10px 25px;
+  color: #212529;
 }
 
 /* Finaliza el footer y el body */
